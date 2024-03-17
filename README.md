@@ -5,8 +5,7 @@ Leukaemia Detection and Classification using Deep Convolutional Neural Networks 
 
 **Abstract:**
 White blood cells, also known as leukocytes, or
-WBCs, spread abnormally in the bone marrow and blood, re-
-sulting in leukaemia (blood cancer). Leukaemia can be identified
+WBCs, spread abnormally in the bone marrow and blood, resulting in leukaemia (blood cancer). Leukaemia can be identified
 by pathologists by examining a patient’s blood sample under
 a microscope. By counting different blood cells and physical
 characteristics, they can identify and classify leukaemia. This
