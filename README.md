@@ -36,6 +36,7 @@ The paper compares the performance of different Deep CNN models in identifying a
 **Dataset:**
 
 We used the '**Acute Lymphoblastic Leukemia (ALL) image dataset**' from Kaggle for our project.
+
 The API command for the ALL dataset is: **kaggle datasets download -d mehradaria/leukemia**
 
 ![image](https://github.com/Sadakakarla/Deep-Learning-Leukaemia-Diagnosis-/assets/77640541/74e4663b-20ea-4c9b-b05d-505de4e2d2e0)
