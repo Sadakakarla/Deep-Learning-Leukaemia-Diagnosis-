@@ -29,3 +29,23 @@ Traditional microscopy-based leukemia diagnosis is time-consuming and relies on 
 **Proposed Solution:**
 This project explores deep learning, specifically Deep CNNs, as a potential tool for faster and more objective leukemia detection and classification.
 The paper compares the performance of different Deep CNN models in identifying and classifying WBCs and leukemia in blood smears.
+
+**Dataset:**
+We used the '**Acute Lymphoblastic Leukemia (ALL) image dataset**' from Kaggle for our project.
+The API command for the ALL dataset that we used is: kaggle datasets download -d mehradaria/leukemia
+
+![image](https://github.com/Sadakakarla/Deep-Learning-Leukaemia-Diagnosis-/assets/77640541/74e4663b-20ea-4c9b-b05d-505de4e2d2e0)
+
+
+About this directory:
+Original peripheral blood smear images containing 3256 images from 89 patients suspected of ALL, including 25 healthy individuals with a benign diagnosis (hematogone) and 64 patients with a definitive diagnosis of ALL subtypes, Early Pre-B, Pre-B, and Pro-B ALL.
+
+Data Citation:
+Mehrad Aria, Mustafa Ghaderzadeh, Davood Bashash, Hassan Abolghasemi, Farkhondeh Asadi, and Azamossadat Hosseini, “Acute Lymphoblastic Leukemia (ALL) image dataset.” Kaggle, (2021). DOI: 10.34740/KAGGLE/DSV/2175623.
+
+Publication Citation:
+Ghaderzadeh, M, Aria, M, Hosseini, A, Asadi, F, Bashash, D, Abolghasemi, H. A fast and efficient CNN model for B-ALL diagnosis and its subtypes classification using peripheral blood smear images. Int J Intell Syst. 2022; 37: 5113- 5133. doi:10.1002/int.22753
+
+
+
+
