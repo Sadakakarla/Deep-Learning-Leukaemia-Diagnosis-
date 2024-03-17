@@ -26,12 +26,10 @@ in microscopic blood cells.
 This project investigates the application of Deep CNNs for automated identification and classification of white blood cells (WBCs) and acute leukemia in microscopic blood images.
 The goal is to improve the accuracy and speed of leukemia diagnosis compared to traditional microscopy methods.
 
-**Problem:**
-
+**Tradtional Problem:**
 Traditional microscopy-based leukemia diagnosis is time-consuming and relies on pathologist expertise, which can introduce subjectivity.
 
 **Proposed Solution:**
-
 This project explores deep learning, specifically Deep CNNs, as a potential tool for faster and more objective leukemia detection and classification.
 The paper compares the performance of different Deep CNN models in identifying and classifying WBCs and leukemia in blood smears.
 
