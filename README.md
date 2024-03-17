@@ -25,6 +25,7 @@ The goal is to improve the accuracy and speed of leukemia diagnosis compared to 
 
 **Problem:**
 Traditional microscopy-based leukemia diagnosis is time-consuming and relies on pathologist expertise, which can introduce subjectivity.
-**Solution:**
+
+**Proposed Solution:**
 This project explores deep learning, specifically Deep CNNs, as a potential tool for faster and more objective leukemia detection and classification.
 The paper compares the performance of different Deep CNN models in identifying and classifying WBCs and leukemia in blood smears.
